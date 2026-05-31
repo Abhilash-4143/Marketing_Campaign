@@ -1,0 +1,5 @@
+Original shape: (2240, 29)
+Removed 0 duplicate rows
+Income nulls/outliers filled with median: 51373
+Final shape: (2240, 30)
+Columns: ['id', 'year_birth', 'education', 'marital_status', 'income', 'kidhome', 'teenhome', 'dt_customer', 'recency', 'mntwines', 'mntfruits', 'mntmeatproducts', 'mntfishproducts', 'mntsweetproducts', 'mntgoldprods', 'numdealspurchases', 'numwebpurchases', 'numcatalogpurchases', 'numstorepurchases', 'numwebvisitsmonth', 'acceptedcmp3', 'acceptedcmp4', 'acceptedcmp5', 'acceptedcmp1', 'acceptedcmp2', 'complain', 'response', 'age', 'total_spend', 'children']
